@@ -15,7 +15,7 @@ return new class extends Migration
         Schema::create('post_blacklists', function (Blueprint $table) {
             $table->id();
             $table->bigInteger('user_id');
-            $table->intbigIntegereger('post_id');
+            $table->bigInteger('post_id');
             $table->timestamps();
         });
     }

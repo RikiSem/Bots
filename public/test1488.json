@@ -1,0 +1,52 @@
+POST /api/telegraph/7644434924:AAGjtIPQFhkE_DbCSXw4HljnJ08eDMjmf5Y/webhook HTTP/1.0
+Accept-Encoding:   gzip, deflate
+Connection:        close
+Content-Length: 835
+Content-Type:      application/json
+Host:              tarobot.tech
+X-Forwarded-Port: 443
+X-Forwarded-Proto: https
+
+{
+    "update_id": 356797401,
+    "message": {
+        "message_id": 881,
+        "from": {
+            "id": 446111281,
+            "is_bot": false,
+            "first_name": "RikiSem",
+            "username": "RikiSem",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 446111281,
+            "first_name": "RikiSem",
+            "username": "RikiSem",
+            "type": "private"
+        },
+        "date": 1743857174,
+        "video": {
+            "duration": 15,
+            "width": 720,
+            "height": 1280,
+            "mime_type": "video/mp4",
+            "thumbnail": {
+                "file_id": "AAMCAgADGQEAAgNxZ_EmFQ1W3hUs2b6AszZEm45f0r0AAtxuAAIu6IlLy1QtVhh13QQBAAdtAAM2BA",
+                "file_unique_id": "AQAD3G4AAi7oiUty",
+                "file_size": 6492,
+                "width": 180,
+                "height": 320
+            },
+            "thumb": {
+                "file_id": "AAMCAgADGQEAAgNxZ_EmFQ1W3hUs2b6AszZEm45f0r0AAtxuAAIu6IlLy1QtVhh13QQBAAdtAAM2BA",
+                "file_unique_id": "AQAD3G4AAi7oiUty",
+                "file_size": 6492,
+                "width": 180,
+                "height": 320
+            },
+            "file_id": "BAACAgIAAxkBAAIDcWfxJhUNVt4VLNm-gLM2RJuOX9K9AALcbgACLuiJS8tULVYYdd0ENgQ",
+            "file_unique_id": "AgAD3G4AAi7oiUs",
+            "file_size": 5843906
+        }
+    }
+}

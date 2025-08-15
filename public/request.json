@@ -1,0 +1,60 @@
+{
+    "update_id": 152964115,
+    "message": {
+        "message_id": 1387362,
+        "from": {
+            "id": 446111281,
+            "is_bot": false,
+            "first_name": "RikiSem",
+            "username": "RikiSem",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 446111281,
+            "first_name": "RikiSem",
+            "username": "RikiSem",
+            "type": "private"
+        },
+        "date": 1745225127,
+        "forward_origin": {
+            "type": "user",
+            "sender_user": {
+                "id": 446111281,
+                "is_bot": false,
+                "first_name": "RikiSem",
+                "username": "RikiSem",
+                "language_code": "ru"
+            },
+            "date": 1745224969
+        },
+        "forward_from": {
+            "id": 446111281,
+            "is_bot": false,
+            "first_name": "RikiSem",
+            "username": "RikiSem",
+            "language_code": "ru"
+        },
+        "forward_date": 1745224969,
+        "video_note": {
+            "duration": 3,
+            "length": 384,
+            "thumbnail": {
+                "file_id": "AAMCAgADGQEAARUrYGgGBQlG8UywJvYzabz-De3aB2P9AAK-awACEHIxSN_TfjzS9EoiAQAHbQADNgQ",
+                "file_unique_id": "AQADvmsAAhByMUhy",
+                "file_size": 7911,
+                "width": 320,
+                "height": 320
+            },
+            "thumb": {
+                "file_id": "AAMCAgADGQEAARUrYGgGBQlG8UywJvYzabz-De3aB2P9AAK-awACEHIxSN_TfjzS9EoiAQAHbQADNgQ",
+                "file_unique_id": "AQADvmsAAhByMUhy",
+                "file_size": 7911,
+                "width": 320,
+                "height": 320
+            },
+            "file_id": "DQACAgIAAxkBAAEVK2BoBgUJRvFMsCb2M2m8_g3t2gdj_QACvmsAAhByMUjf03480vRKIjYE",
+            "file_unique_id": "AgADvmsAAhByMUg",
+            "file_size": 372792
+        }
+    }
+}
